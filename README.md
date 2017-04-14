@@ -1,10 +1,10 @@
-#Portfolio of Work
+##Portfolio of Work
 
-##Simon - The Game
+###Simon - The Game
 
 Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison, with software programming by Lenny Cope, The device creates a series of tones and lights and requires a user to repeat the series. If the user succeeds the series becomes progressively longer and more complex. Once the user fails, the game is over. The original version was manufactured and distributed by Milton Bradley but after they went out of business, the product was taken over by Hasbro. This version of Simon expands the basic game play to have a 4 levels a player can choose from and each level provind 5 rounds.  Each round in a level is set with a new sequence with an added sequence after the first round.
 
-### Getting Started With Simon
+#### Getting Started With Simon
 
 These instructions will help you play the game should you not wish to download a copy of the project. **You can access the game on my live site here: [SSJassal Live Site](https://ssjassal.github.io/wdir-projects/Project_1/index.html)**
 
