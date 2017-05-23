@@ -13,7 +13,7 @@ Should you want to see the code and modify, these instructions will get you a co
 ## Project B
 ### Pokemon Poke-dex
 
-The pokemon poke-dex sports 150 different pokemon.  The functionality of this app is simple learning of manipulating data without a true database.  There are features replicating the CRUD methodology.  
+The **Pokemon Poke-Dex** sports 150 different pokemon. A user can select a pokemon and obtain information about each pokemon and add new Pokemon to their **Poke-Dex**  The functionality of this app is simple learning of manipulating data without a true database.  There are features replicating the CRUD methodology.  
 
 #### Getting Started With Pokemon Poke-Dex
 These instructions will help you see the app, should you not wish to download a copy of the project.**You can access the respository here: [SSJassal WDIR Projects Repository](https://github.com/ssjassal/wdi-remote-hopper/tree/master/unit_2/w05d04/homework/)**
