@@ -1,7 +1,7 @@
 ## Project A
 ### Simon - The Game
 
-Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison, with software programming by Lenny Cope, The device creates a series of tones and lights and requires a user to repeat the series. If the user succeeds the series becomes progressively longer and more complex. Once the user fails, the game is over. The original version was manufactured and distributed by Milton Bradley but after they went out of business, the product was taken over by Hasbro. This version of Simon expands the basic game play to have a 4 levels a player can choose from and each level provind 5 rounds.  Each round in a level is set with a new sequence with an added sequence after the first round.
+**Simon** is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison, with software programming by Lenny Cope, The device creates a series of tones and lights and requires a user to repeat the series. If the user succeeds the series becomes progressively longer and more complex. Once the user fails, the game is over. The original version was manufactured and distributed by Milton Bradley but after they went out of business, the product was taken over by Hasbro. This version of Simon expands the basic game play to have a **4 levels** a player can choose from and each level provind 5 rounds.  Each round in a level is set with a new sequence with an added sequence after the first round. This is a pure **JQuery/Javascript** website.
 
 #### Getting Started With Simon
 
@@ -42,7 +42,7 @@ Should you wish to see the code, **You can access the respository here: [SSJassa
 
 ## Project E
 ### Cards Against Humanity
-A four-model, full-stack application with Rails backend serving JSON API with full CRUD operations approach was taken for developing this online version of Cards Against Humanities. Both frontend and backend are hosted on Heroku. CORS was configured so that only the intended frontend app can alter the database and anyone can read data from the hosted API. A many-to-many relationship was created between black and white cards (through the scores model). The development team used Github and Zenhub for version control and tracking the development of game features.
+**Cards Against Humanity** is the hilarious game of asking insteresting questions but getting even interesting answers.  The game is currently played against the computer. A question is posed via a **black card** and the answers are selected via **white cards**. The answers are scored and points are awarded to the winning player for that round, with a total of 10 rounds. Users can create an account for themselves to retain highscores and view them in the **High Scores** modal. This app was desiged as a **four-model, full-stack application** with **Rails backend** serving JSON API with full CRUD operations approach was taken for developing this online version of Cards Against Humanities. A many-to-many relationship was created between black and white cards. Both frontend and backend are hosted on Heroku. CORS was configured so that only the intended frontend app can alter the database and anyone can read data from the hosted API. 
 
 #### Viewing The Code
 
