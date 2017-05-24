@@ -18,7 +18,7 @@ The **Pokemon Poke-Dex** sports 150 different pokemon. A user can select a pokem
 #### Getting Started With Pokemon Poke-Dex
 These instructions will help you see the app, should you not wish to download a copy of the project.**You can access the respository here: [SSJassal WDIR Projects Repository](https://github.com/ssjassal/wdi-remote-hopper/tree/master/unit_2/w05d04/homework/)**
 
-Should you want to see the code and modify, these instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Please clone my repository for **Pokedex App** from there you will find need to run **npm install** to install all necessary modules. You'll want to ensure the **server.js** file holds the port you wish to run the app. You will then need to start the **nodemon** server.  You can then run the app from **http://localhost:port-given**. 
+Should you want to see the code and modify, these instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Please clone my repository for **Pokedex App** from there you will find need to run **npm install** to install all necessary modules. You'll want to ensure the **server.js** file holds the port you wish to run the app. You will then need to start the **nodemon** server.  You can then run the app from **http://localhost:port-given**.
 
 ## Project C
 ### Start With Me
@@ -42,12 +42,10 @@ Should you wish to see the code, **You can access the respository here: [SSJassa
 
 ## Project E
 ### Cards Against Humanity
-**Cards Against Humanity** is the hilarious game of asking insteresting questions but getting even interesting answers.  The game is currently played against the computer. A question is posed via a **black card** and the answers are selected via **white cards**. The answers are scored and points are awarded to the winning player for that round, with a total of 10 rounds. Users can create an account for themselves to retain highscores and view them in the **High Scores** modal. This app was desiged as a **four-model, full-stack application** with **Rails backend** serving JSON API with full CRUD operations approach was taken for developing this online version of Cards Against Humanities. A many-to-many relationship was created between black and white cards. Both frontend and backend are hosted on Heroku. CORS was configured so that only the intended frontend app can alter the database and anyone can read data from the hosted API. 
+**Cards Against Humanity** is the hilarious game of asking insteresting questions but getting even interesting answers.  The game is currently played against the computer. A question is posed via a **black card** and the answers are selected via **white cards**. The answers are scored and points are awarded to the winning player for that round, with a total of 10 rounds. Users can create an account for themselves to retain highscores and view them in the **High Scores** modal. This app was desiged as a **four-model, full-stack application** with **Rails backend** serving JSON API with full CRUD operations approach was taken for developing this online version of Cards Against Humanities. A many-to-many relationship was created between black and white cards. Both frontend and backend are hosted on Heroku. CORS was configured so that only the intended frontend app can alter the database and anyone can read data from the hosted API.
 
 #### Viewing The Code
 
 These instructions will help you access the site should you not wish to download a copy of the project. **You can access the app on my live site here: [Soniya Jassal (SSJassal) Live Site](https://humanity-app-frontend.herokuapp.com/)**
 
 Should you wish to see the code, **You can access the respository here: [SSJassal Group Project Cards Against Humanity Front End](https://github.com/annguye2/humanity_app_frontend) & [SSJassal Group Project Cards Against Humanity API](https://github.com/annguye2/humanity_app_api)**
-
-
